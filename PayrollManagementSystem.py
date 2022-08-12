@@ -7,7 +7,7 @@ import time
 import tkinter.ttk as tkrtk
 import tkinter as tkr
 import pymysql
-
+#note
 
 class Payroll:
     def __init__(self, root):
